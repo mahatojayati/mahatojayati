@@ -5,6 +5,8 @@
 - 📫 How to reach me - 24jayatimahato@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I program in Java.
+- 📚 I'm a student of Computer Science and Engineering.
+- 🎉 I'm a beginner in Web Development.
 
 <!---
 mahatojayati/mahatojayati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
