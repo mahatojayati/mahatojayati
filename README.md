@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mahatojayati
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me - 24jayatimahato@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I program in Python.
-- 📚 I'm a student of Computer Science and Engineering(Artifical Intelligence).
+- 📚 I'm a student of Computer Science and Engineering(Artificial Intelligence).
   
 
 <!---
