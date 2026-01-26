@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayati Mahato</h1>
 <h3 align="center">A Data-Scientist in making.</h3>
 
-- 🔭 I’m currently working on **Personify**
+- 🔭 I’m currently working on **SortedStudies**
 
 - 🌱 I’m currently learning **Scikit-Learn, SciPy**
 
