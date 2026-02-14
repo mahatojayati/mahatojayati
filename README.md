@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayati Mahato</h1>
-<h3 align="center">A ML Engineer in making.</h3>
+<h3 align="center">An ML Engineer in making.</h3>
 
 - 🔭 I’m currently working on **SortedStudies**
 
