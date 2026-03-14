@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jayati Mahato</h1>
-<h3 align="center">An ML Engineer in making.</h3>
+<h3 align="center">I code and build stuf online :P.</h3>
 
 - 🔭 I’m currently working on **SortedStudies**
 
-- 🌱 I’m currently learning **Scikit-Learn, SciPy**
+- 🌱 I’m currently learning **ReactJS, TypeScript**
 
-- 👯 I’m looking to collaborate on **ML projects**
+- 👯 I’m looking to collaborate on **WebDev projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahatojayati](https://github.com/mahatojayati)
 
 - 📝 I regularly write articles on [https://linkedin.com/mahato-jayati](https://linkedin.com/mahato-jayati)
 
-- 💬 Ask me about **Python, SQL, Streamlit**
+- 💬 Ask me about **Front End, SQL**
 
 - 📫 How to reach me **24jayatimahato@gmail.com**
 
