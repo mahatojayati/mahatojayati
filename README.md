@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayati Mahato</h1>
-<h3 align="center">I code and build stuf online :P.</h3>
+<h3 align="center">I code and build stuff online :P.</h3>
 
 - 🔭 I’m currently working on **SortedStudies**
 
-- 🌱 I’m currently learning **ReactJS, TypeScript**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **WebDev projects**
 
