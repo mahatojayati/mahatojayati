@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jayati Mahato</h1>
 <h3 align="center">I code and build stuff online :P.</h3>
 
-- 🔭 I’m currently working on **SortedStudies**
+- 🔭 I’m currently working on Backend Skills
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning about SWE principles and architecture.
 
-- 👯 I’m looking to collaborate on **WebDev projects**
+- 👯 I’m looking to collaborate on WebDev projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahatojayati](https://github.com/mahatojayati)
 
 - 📝 I regularly write articles on [https://linkedin.com/mahato-jayati](https://linkedin.com/mahato-jayati)
 
-- 💬 Ask me about **Front End, SQL**
+- 💬 Ask me about Front End, SQL, Deployment
 
 - 📫 How to reach me **24jayatimahato@gmail.com**
 
