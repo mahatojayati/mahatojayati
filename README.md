@@ -1,12 +1,12 @@
-<h1>Project Status: Discontinued</h1>
+<h1>Project Status: Experimenting</h1>
 <p>
-      <strong>Status:</strong> Discontinued<br>
+      <strong>Status:</strong> On break from Web Development <br>
       <strong>Reason:</strong> Pivoting toward iOS app development
     </p>
 
    <p>
-      This repository is no longer actively maintained as I shift my focus
-      toward <strong>iOS app development</strong>.
+      This repository is no longer actively maintaining web dev repos as user is learning
+       <strong>iOS app development</strong>.
     </p>
 
   <h2>What This Means</h2>
