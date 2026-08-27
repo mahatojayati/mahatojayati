@@ -1,12 +1,12 @@
 <h1>Project Status: Experimenting</h1>
 <p>
       <strong>Status:</strong> On break from Web Development <br>
-      <strong>Reason:</strong> Pivoting toward iOS app development
+      <strong>Reason:</strong> Experimenting
     </p>
 
    <p>
-      This repository is no longer actively maintaining web dev repos as user is learning
-       <strong>iOS app development</strong>.
+      This repository is no longer actively maintaining web dev repos as user is 
+       <strong> experimenting </strong>.
     </p>
 
   <h2>What This Means</h2>
@@ -23,9 +23,8 @@
   <h2>Why?</h2>
 
   <p>
-      I've decided to pivot my development focus toward building applications
-      for Apple's platforms. This means dedicating my time and motivation to
-      learning, experimenting, and creating within the iOS ecosystem.
+      I've decided to pivot my development focus towards experimenting. This means dedicating my time and motivation to
+      tinkering around.
     </p>
 
   <p>
@@ -49,7 +48,7 @@
       This isn't the end of development—just a change in direction.
     </p>
 
-   <h3>See you in the iOS ecosystem. 🍎</h3>
+   <h3>See you after an Epiphany </h3>
   </main>
 </body>
 </html>
