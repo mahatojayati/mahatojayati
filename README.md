@@ -1,26 +1,55 @@
-<h1 align="center">Hi 👋, I'm Jayati Mahato</h1>
-<h3 align="center">I code and build stuff online :P.</h3>
+<h1>Project Status: Discontinued</h1>
+<p>
+      <strong>Status:</strong> Discontinued<br>
+      <strong>Reason:</strong> Pivoting toward iOS app development
+    </p>
 
-- 🔭 I’m currently working on Backend Skills
+   <p>
+      This repository is no longer actively maintained as I shift my focus
+      toward <strong>iOS app development</strong>.
+    </p>
 
-- 🌱 I’m currently learning about SWE principles and architecture.
+  <h2>What This Means</h2>
 
-- 👯 I’m looking to collaborate on WebDev projects
+  <ul>
+      <li>All ongoing projects will be <strong>finished</strong> where possible.</li>
+      <li>Once completed, existing projects will <strong>not receive further updates</strong>.</li>
+      <li>No new features will be added after completion.</li>
+      <li>Bug fixes and maintenance will generally not be provided.</li>
+      <li>Pull requests and issues may not be reviewed or merged.</li>
+      <li>New projects will primarily focus on <strong>iOS development</strong>.</li>
+    </ul>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahatojayati](https://github.com/mahatojayati)
+  <h2>Why?</h2>
 
-- 📝 I regularly write articles on [https://linkedin.com/mahato-jayati](https://linkedin.com/mahato-jayati)
+  <p>
+      I've decided to pivot my development focus toward building applications
+      for Apple's platforms. This means dedicating my time and motivation to
+      learning, experimenting, and creating within the iOS ecosystem.
+    </p>
 
-- 💬 Ask me about Front End, SQL, Deployment
+  <p>
+      The projects in this repository were an important part of my development
+      journey, and I intend to bring the ongoing ones to a reasonable stop
+      point rather than leaving them unfinished.
+    </p>
 
-- 📫 How to reach me **24jayatimahato@gmail.com**
+  <h2>A Thank You</h2>
 
-- ⚡ Fun fact **I almost quit programming 3 times.**
+  <p>
+      Thank you to everyone who has used, contributed to, starred, or simply
+      checked out these projects.
+    </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahatojayati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahatojayati" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahato-jayati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahato-jayati" height="30" width="40" /></a>
-<a href="https://kaggle.com/mahatojayati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahatojayati" height="30" width="40" /></a>
-<a href="https://instagram.com/mahatojayati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahatojayati" height="30" width="40" /></a>
-</p>
+  <p>
+      Your interest and support are genuinely appreciated.
+    </p>
+
+   <p>
+      This isn't the end of development—just a change in direction.
+    </p>
+
+   <h3>See you in the iOS ecosystem. 🍎</h3>
+  </main>
+</body>
+</html>
